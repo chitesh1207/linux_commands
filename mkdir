@@ -1,0 +1,9 @@
+mkdir command -make directories.
+
+The command mkdir stands for “make directory”. It creates each directory specifed on the command line in the order given. It reports an error if DIRECTORY already exists, unless the -p option is given.
+
+The mkdir command in Linux/Unix allows users to create or make new directories (also referred to as folders in some operating systems).
+
+This command creates the DIRECTORY(ies), if they do not already exist. This command can create multiple directories at once as well as set the permissions for the directories (folders).
+
+It is important to note that for executing this command, users must have the right permissions to create a directory in the parent directory, otherwise the users would receive a ‘permission denied’ error.
